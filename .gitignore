@@ -95,3 +95,4 @@ x509.genkey
 
 # Kconfig presets
 all.config
+cmake-build-debug/*

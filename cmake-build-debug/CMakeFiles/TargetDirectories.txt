@@ -1,3 +1,0 @@
-/Volumes/dev/cccc/linux-3.16.41/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Volumes/dev/cccc/linux-3.16.41/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Volumes/dev/cccc/linux-3.16.41/cmake-build-debug/CMakeFiles/kernel.dir
